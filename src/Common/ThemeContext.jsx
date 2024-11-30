@@ -23,7 +23,7 @@ export const ThemeProvider = ({ children }) => {
     setTheme((prevTheme) => (prevTheme === 'light' ? 'dark' : 'light'));
   };
 
-  //..
+  //..childer is basically encapsulated element by the parent
   return (
     <ThemeContext.Provider value={{ theme, toggleTheme }}>
       {children}
