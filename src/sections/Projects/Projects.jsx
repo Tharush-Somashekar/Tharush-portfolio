@@ -17,7 +17,7 @@ function Projects() {
         />
         <ProjectCard
           src={NcertPic}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://www.behance.net/gallery/209834483/NCERT-rebranding-activity"
           h3="NCERT"
           p="Rebranding"
         />
