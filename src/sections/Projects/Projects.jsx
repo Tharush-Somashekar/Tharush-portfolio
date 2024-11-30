@@ -23,7 +23,7 @@ function Projects() {
         />
         <ProjectCard
           src={YoutubePic}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://www.behance.net/gallery/209841117/Case-study-Youtube-recomendation-system"
           h3="Youtube"
           p="SDB blueprint"
         />
